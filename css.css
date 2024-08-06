@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(255, 253, 195);
+}
+#wynikKalkulatora{
+    border: 5px black solid;
+    background-color: rgb(185, 185, 185);
+}
+
+#ramkaKalkulatora{
+    border: 8px black double;
+    margin-right: 1065px;
+}
+hr{
+    border: 4px black solid;
+}
+
+.buttonNumber{
+    border: 4px black solid;
+    height: 70px;
+    width: 70px;
+    margin-left: 15px;
+    margin-top: 6px;
+    
+}
+
+.buttonNumber:hover{
+    border: 4px white solid;
+}
